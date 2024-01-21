@@ -48,9 +48,13 @@ To set the environment variables that allow you to operate the peer CLI as Org2:
 import the following packages:
 
  "github.com/hyperledger/fabric-contract-api-go/contractapi"
+ 
  "github.com/golang/protobuf/ptypes"
+ 
  "strconv"
+ 
  "log"
+ 
  "time"
 
  **PROCEDURE**
